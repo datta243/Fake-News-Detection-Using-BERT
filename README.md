@@ -2,8 +2,6 @@
 
 An NLP-based Machine Learning project that classifies news headlines as **Fake News or Real News** using a fine-tuned BERT (Bidirectional Encoder Representations from Transformers) model.
 
-The project uses TensorFlow and Hugging Face Transformers to fine-tune the pretrained `bert-base-uncased` model for binary text classification.
-
 ## 🚀 Project Overview
 
 Fake news spreads misleading or fabricated information through digital platforms. This project aims to identify potentially fake news headlines using Natural Language Processing (NLP) and a pretrained BERT model.
